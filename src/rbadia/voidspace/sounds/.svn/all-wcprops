@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/group11/!svn/ver/38/VoidSpace/src/rbadia/voidspace/sounds
+END
+SoundManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/group11/!svn/ver/42/VoidSpace/src/rbadia/voidspace/sounds/SoundManager.java
+END
+shipExplosion.wav
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/group11/!svn/ver/27/VoidSpace/src/rbadia/voidspace/sounds/shipExplosion.wav
+END
+laser.wav
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/group11/!svn/ver/27/VoidSpace/src/rbadia/voidspace/sounds/laser.wav
+END
+Spacewalk.wav
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/group11/!svn/ver/44/VoidSpace/src/rbadia/voidspace/sounds/Spacewalk.wav
+END
